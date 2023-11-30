@@ -14,7 +14,7 @@ SIL OPEN FONT LICENSE Version 1.1
 
 # 示例
 
-![Perview 1](./PERVIEW.jpeg)
+![Perview 1](./PREVIEW.jpeg)
 
 # 其他
 
